@@ -1,18 +1,18 @@
 [
   {
-    "id": 1758085771123,
+    "id": 1758087643831,
     "name": "Alice",
     "age": 20,
     "course": "Computer Science",
-    "year": "2",
+    "year": 2,
     "status": "active"
   },
   {
-    "id": 1758085792740,
+    "id": 1758087651397,
     "name": "Alice",
     "age": 20,
     "course": "Computer Science",
-    "year": "2",
+    "year": 2,
     "status": "active"
   }
 ]
